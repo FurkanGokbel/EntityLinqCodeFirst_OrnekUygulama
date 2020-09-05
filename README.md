@@ -1,0 +1,2 @@
+# LinqSorgular_Entity
+deneme
